@@ -1,0 +1,11 @@
+Search: HR
+Linear Search Comparisons: 6
+Binary Search Comparisons: 2
+
+Search: Development
+Linear Search Comparisons: 3
+Binary Search Comparisons: 3
+
+Search: Testing
+Linear Search Comparisons: 8
+Binary Search Comparisons: 4
