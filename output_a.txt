@@ -1,0 +1,30 @@
+============================================
+ORGANISATIONAL HIERARCHY
+============================================
+
+Enter root of the organisation: CEO
+
+--- Enter Hierarchy ---
+
+Enter number of children for CEO: 3
+
+Enter name of child 1 of CEO: HR
+Enter number of children for HR: 0
+
+Enter name of child 2 of CEO: Finance
+Enter number of children for Finance: 0
+
+Enter name of child 3 of CEO: IT
+Enter number of children for IT: 2
+
+Enter name of child 1 of IT: Development
+Enter number of children for Development: 2
+
+Enter name of child 1 of Development: Frontend
+Enter number of children for Frontend: 0
+
+Enter name of child 2 of Development: Backend
+Enter number of children for Backend: 0
+
+Enter name of child 2 of IT: Testing
+Enter number of children for Testing: 0
